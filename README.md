@@ -11,7 +11,7 @@ We publish the tools we use to keep our clients' businesses running, so anyone c
 **Your website can be "up" while customers can't buy, sign up or contact you.** [JourneyGuard](https://github.com/nxdpro/journeyguard) walks through checkout and forms like a real customer and tells you, in plain English or Greek, the moment a journey breaks. Free, self-hosted, MIT-licensed.
 
 ```bash
-npx playwright install chromium && npx journeyguard demo
+docker run --rm -p 8080:8080 ghcr.io/nxdpro/journeyguard demo --host 0.0.0.0
 ```
 
 ## What we build
