@@ -1,6 +1,6 @@
 <a href="https://www.nxdpro.com/?utm_source=github&utm_medium=profile"><img src="banner.svg" alt="NXDPRO Solutions: websites, e-shops and custom business systems that keep working. Limassol, Cyprus, serving Cyprus and Greece since 2003." width="100%"></a>
 
-**NXDPRO Solutions** is a web and e-commerce studio in Limassol, Cyprus. Since 2003 we have designed, built and looked after websites, online shops and custom software for businesses in Cyprus and Greece, and we build and run platforms of our own. We open-source the tools we build for our own work, starting with [JourneyGuard](https://github.com/nxdpro/journeyguard).
+**NXDPRO Solutions** is a web and e-commerce studio in Limassol, Cyprus. Since 2003 we have designed, built and looked after websites, online shops and custom software for businesses in Cyprus and Greece. We open-source the tools we build for our own work, starting with [JourneyGuard](https://github.com/nxdpro/journeyguard).
 
 **[Free e-shop check](mailto:info@nxdpro.com?subject=Free%20e-shop%20check)** · **[info@nxdpro.com](mailto:info@nxdpro.com)** · **[nxdpro.com](https://www.nxdpro.com/?utm_source=github&utm_medium=profile)** · **[Facebook](https://www.facebook.com/nxdpro.solutions)** · 🇬🇷 🇨🇾 **[Ελληνικά ↓](#στα-ελληνικά)**
 
@@ -10,16 +10,6 @@
 - ⚙️ **Custom business systems**: booking, client portals, CRMs, dashboards, and integrations between the tools you already use
 - 🌐 **Websites and apps**: fast, accessible websites you can update yourself; mobile apps and PWAs
 - 🔒 **Keeping it running**: monitoring, maintenance, security audits, hosting and backups
-
-## Platforms we built and run
-
-| Platform | What it is |
-|---|---|
-| 🏷️ **[BuySellCy](https://www.buysellcy.com/)** | Marketplace for buying and selling in Cyprus |
-| 🏢 **[CypInfo](https://cypinfo.com/)** | AI-powered business directory for Cyprus · [case study](https://www.nxdpro.com/en/case-studies/cypinfo?utm_source=github&utm_medium=profile) |
-| 🔎 **[SEO Auditor Pro](https://seoauditor.pro/)** | SEO audit extension for Chrome that runs privately in your browser · [case study](https://www.nxdpro.com/en/case-studies/seo-auditor?utm_source=github&utm_medium=profile) |
-| 🚗 **[Car For Sale Cyprus](https://www.carforsalecyprus.com/)** | Cars for sale across Cyprus |
-| 🏠 **[BuyRent.com.cy](https://buyrent.com.cy/)** | Property to buy and rent in Cyprus |
 
 ## 🛡️ JourneyGuard
 
@@ -66,8 +56,6 @@ Need an e-shop, a custom system built around how your business actually works, o
 - ⚙️ **Εξειδικευμένα συστήματα**: κρατήσεις, portals πελατών, CRM, dashboards και διασύνδεση με τα εργαλεία που ήδη χρησιμοποιείτε
 - 🌐 **Ιστοσελίδες και εφαρμογές**: γρήγορες, προσβάσιμες ιστοσελίδες που ενημερώνετε μόνοι σας, εφαρμογές για κινητά και PWA
 - 🔒 **Συνεχής λειτουργία**: παρακολούθηση, συντήρηση, έλεγχοι ασφαλείας, φιλοξενία και backup
-
-Έχουμε δημιουργήσει και λειτουργούμε πλατφόρμες όπως τα [BuySellCy](https://www.buysellcy.com/), [CypInfo](https://cypinfo.com/), [SEO Auditor Pro](https://seoauditor.pro/), [Car For Sale Cyprus](https://www.carforsalecyprus.com/) και [BuyRent.com.cy](https://buyrent.com.cy/).
 
 Το [JourneyGuard](https://github.com/nxdpro/journeyguard/blob/main/README.el.md) είναι το δωρεάν εργαλείο μας: ελέγχει, όπως ένας πραγματικός πελάτης, αν οι πελάτες σας μπορούν να αγοράσουν από το eShop σας και να επικοινωνήσουν μαζί σας, και σας ειδοποιεί στα ελληνικά μόλις κάτι χαλάσει.
 
