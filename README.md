@@ -15,9 +15,9 @@
 
 | Platform | What it is |
 |---|---|
-| 🏷️ **[BuySellCy](https://www.buysellcy.com/)** | Marketplace for buying and selling in Cyprus, with 12K+ active listings |
-| 🏢 **[CypInfo](https://cypinfo.com/)** | AI-powered business directory for Cyprus with 3,400+ verified listings · [case study](https://www.nxdpro.com/en/case-studies/cypinfo?utm_source=github&utm_medium=profile) |
-| 🔎 **[SEO Auditor Pro](https://seoauditor.pro/)** | SEO audit extension for Chrome: 81 checks that run privately in your browser · [case study](https://www.nxdpro.com/en/case-studies/seo-auditor?utm_source=github&utm_medium=profile) |
+| 🏷️ **[BuySellCy](https://www.buysellcy.com/)** | Marketplace for buying and selling in Cyprus |
+| 🏢 **[CypInfo](https://cypinfo.com/)** | AI-powered business directory for Cyprus · [case study](https://www.nxdpro.com/en/case-studies/cypinfo?utm_source=github&utm_medium=profile) |
+| 🔎 **[SEO Auditor Pro](https://seoauditor.pro/)** | SEO audit extension for Chrome that runs privately in your browser · [case study](https://www.nxdpro.com/en/case-studies/seo-auditor?utm_source=github&utm_medium=profile) |
 | 🚗 **[Car For Sale Cyprus](https://www.carforsalecyprus.com/)** | Cars for sale across Cyprus |
 | 🏠 **[BuyRent.com.cy](https://buyrent.com.cy/)** | Property to buy and rent in Cyprus |
 
